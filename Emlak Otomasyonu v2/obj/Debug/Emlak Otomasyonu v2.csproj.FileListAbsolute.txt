@@ -1,0 +1,30 @@
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.exe.config
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.exe
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.pdb
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csprojAssemblyReference.cache
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Giris.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Properties.Resources.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csproj.GenerateResource.cache
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csproj.CoreCompileInputs.cache
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.exe
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.pdb
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Form1.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.konutekle.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.konutdüzenle.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.müsterilerkayıt.resources
+D:\DERS\görsel\Görsel proje\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.düzenleme.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.exe.config
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.exe
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\bin\Debug\Emlak Otomasyonu v2.pdb
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csproj.AssemblyReference.cache
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.düzenleme.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Form1.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Giris.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.konutdüzenle.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.konutekle.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.müsterilerkayıt.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak_Otomasyonu_v2.Properties.Resources.resources
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csproj.GenerateResource.cache
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.csproj.CoreCompileInputs.cache
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.exe
+C:\Users\ganza\Downloads\Emlak-Otomasyonu-Grup-19\Emlak Otomasyonu v2\obj\Debug\Emlak Otomasyonu v2.pdb
